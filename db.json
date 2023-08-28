@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "asdigadhgasdaksdkasjd",
+      "nama": "Syahroni",
+      "semester": 0,
+      "password": "12345",
+      "date": "Senin",
+      "role": "admin"
+    },
+    {
+      "id": "b7b5a1d1-c2f7-4360-8362-5e28f26420dd",
+      "nama": "ronay update",
+      "semester": "2",
+      "password": "12345",
+      "date": "Senin",
+      "role": "user"
+    },
+    {
+      "id": "c0a7ad81-223c-4eca-8c38-e419d36ee321",
+      "nama": "onay update",
+      "semester": "0",
+      "password": "12345",
+      "date": "Minggu",
+      "role": "admin"
+    },
+    {
+      "id": "dc513504-7e4e-4a6a-ba5d-9c459f214213",
+      "nama": "ronay update",
+      "semester": "2",
+      "password": "12345",
+      "date": "Senin",
+      "role": "user"
+    }
+  ],
+  "displayuser": []
+}
